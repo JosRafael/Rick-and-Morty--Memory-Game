@@ -171,7 +171,7 @@ class juego {
 		this.PausarTiempo()
 		swal(
 			'Vitória!',
-			`Movimentos: ${this.movimientos} \n\n Tempo: ${this.tempoAtual}`,
+			`Movimentos: ${this.movimientos} \n\n Tempo: ${this.tiempo}`,
 			'success'
 		).then(() => {
 			console.log('olá')
