@@ -25,6 +25,5 @@ Este é um jogo de memória baseado na série de animação "Rick and Morty". El
 
 Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Agradecimentos
 
-Este jogo foi desenvolvido com base no tutorial em espanhol fornecido por [nome_do_autor](link_para_o_tutorial).
+
