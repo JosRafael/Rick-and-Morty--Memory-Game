@@ -1,6 +1,6 @@
 # Jogo de Memória Rick and Morty
 
-![Imagem do Jogo](link_para_a_imagem.jpg)
+![Imagem do Jogo](https://www.otempo.com.br/image/contentid/policy:1.3256308:1697582405/image-Rick-and-Morty-Quantos-episodios-a-7-temporada-tem-e-quando-serao-lancados.jpg)
 
 Este é um jogo de memória baseado na série de animação "Rick and Morty". Ele foi desenvolvido com base em um tutorial em espanhol e adaptado para adicionar funcionalidades como o uso da Fetch API para obter os dados dos personagens.
 
